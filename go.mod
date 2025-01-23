@@ -1,4 +1,4 @@
-module todo
+module github.com/MashkaCoder/go_final_project
 
 go 1.22.5
 
